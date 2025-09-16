@@ -1,7 +1,7 @@
 # AccountMicroserviceTemplate
 # Шаблон микросервиса
 
-В этом проекте определён микросервис, созданный по шаблону микросервиса, который доступен по следующему адресу: [Numnummer/sample-microservice](https://github.com/Numnummer/sample-microservice/tree/master/src/Services/Account). 
+В этом проекте определён шаблонный микросервис, созданный по шаблону микросервиса, который доступен по следующему адресу: [Numnummer/sample-microservice](https://github.com/Numnummer/sample-microservice/tree/master/src/Services/Account). 
 
 ## Описание
 
